@@ -375,3 +375,12 @@ mvn spring-boot:run
 Application runs locally after setup.
 
 ---
+
+Name: Mayank Raj
+Mayank Raj
+Course: B.Tech (Computer Science Engineering with Mathematics)
+College: Delhi Technological University (Formerly DCE)
+Location: New Delhi, India
+Contact No.: +91 7982031047
+EMail: ironheart.mayank@gmail.com
+LinkedIN: https://www.linkedin.com/in/mayank-raj-4040b5264/
