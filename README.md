@@ -1,6 +1,10 @@
 # TenderAI – AI Powered eProcurement & Tender Evaluation Platform
 
-TenderAI is an AI-driven eProcurement platform designed to simplify tender discovery, bidder evaluation, and procurement decision-making. The platform enables organizations to browse tenders, upload tender and bidder documents, and generate AI-based eligibility evaluations within seconds.
+AI-Based Tender Evaluation System is an intelligent e-procurement platform designed to streamline and automate the tender evaluation process for government departments and public sector organizations. Traditional tender evaluation involves extensive manual document verification, eligibility checking, compliance validation, and comparative analysis, which is time-consuming and prone to human errors.
+
+This system leverages Artificial Intelligence to analyze tender documents, evaluate bidder eligibility, verify compliance requirements, and generate transparent evaluation results in a significantly shorter time. The platform provides a centralized environment where procurement authorities can manage tenders, review submissions, and make data-driven decisions efficiently.
+
+The primary objective of the project is to improve transparency, reduce evaluation time, minimize manual effort, and ensure fair tender selection through AI-assisted decision-making.
 
 ---
 
