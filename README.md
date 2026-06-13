@@ -27,7 +27,7 @@ The Home Page serves as the central dashboard of TenderAI and provides users wit
 - Browse all available tenders
 - Watch product demonstration
 
-<img width="1458" height="677" alt="ScreenShot Tool -20260613064951" src="https://github.com/user-attachments/assets/7b49c2a5-e1f9-4429-ae03-c744627f0b68" />
+<img width="1681" height="2217" alt="ScreenShot Tool -20260613071314" src="https://github.com/user-attachments/assets/ef1d01f5-5539-455c-9a44-7586cec2ca40" />
 
 
 ---
