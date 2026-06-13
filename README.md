@@ -54,7 +54,7 @@ The Tender Listing page displays all currently active procurement opportunities 
 ### Purpose
 This page helps users discover and explore procurement opportunities efficiently.
 
-<img width="1322" height="799" alt="ScreenShot Tool -20260613065130" src="https://github.com/user-attachments/assets/f0ca1903-4586-4b73-84ff-7ccb32b7d245" />
+<img width="1681" height="1341" alt="ScreenShot Tool -20260613071452" src="https://github.com/user-attachments/assets/5f568199-e67a-4080-80be-4bba471d40ee" />
 
 
 ---
@@ -77,7 +77,7 @@ This module provides tender-related updates and corrigendums issued after tender
 ### Purpose
 Ensures bidders stay updated with the latest changes before submission.
 
-<img width="1307" height="749" alt="ScreenShot Tool -20260613065214" src="https://github.com/user-attachments/assets/28ba5031-a7f3-45a1-8d88-506943a7bcb2" />
+<img width="1681" height="1011" alt="ScreenShot Tool -20260613071507" src="https://github.com/user-attachments/assets/d4667750-f5c6-4385-af86-fa280adb46e7" />
 
 
 ---
@@ -102,7 +102,7 @@ This page presents completed procurement outcomes and awarded contracts.
 ### Purpose
 Provides transparency and visibility into completed procurement processes.
 
-<img width="1340" height="756" alt="ScreenShot Tool -20260613065250" src="https://github.com/user-attachments/assets/ae9207b9-9038-4ddd-b8ec-5ab9e3182e30" />
+<img width="1681" height="1011" alt="ScreenShot Tool -20260613071521" src="https://github.com/user-attachments/assets/c77a1fea-6ed6-4b9e-afdd-1e747294ecf3" />
 
 
 ---
@@ -144,7 +144,7 @@ After document upload, the system automatically processes:
 ### Purpose
 Reduce manual procurement effort and generate explainable eligibility decisions.
 
-<img width="1232" height="759" alt="ScreenShot Tool -20260613065317" src="https://github.com/user-attachments/assets/d974dbfe-ecfc-41ad-a0ca-f1eb64e15b94" />
+<img width="1681" height="1236" alt="ScreenShot Tool -20260613071707" src="https://github.com/user-attachments/assets/d7f70556-6699-4db6-b64b-ea55ab7b0f19" />
 
 
 ---
@@ -163,7 +163,7 @@ This section highlights active procurement organisations and overall platform en
 - Organization participation
 - Procurement volume
 
-<img width="1305" height="753" alt="ScreenShot Tool -20260613065351" src="https://github.com/user-attachments/assets/95a8a919-a810-4730-af6c-e6ac11286017" />
+<img width="1681" height="1011" alt="ScreenShot Tool -20260613071722" src="https://github.com/user-attachments/assets/4a8da8de-bda0-40dd-a6c7-f48a5ed7f854" />
 
 
 ---
@@ -207,7 +207,7 @@ This module ensures users can quickly access all required documents and setup re
 - Access tender templates
 - Prepare submission requirements
 
-<img width="1303" height="755" alt="ScreenShot Tool -20260613065422" src="https://github.com/user-attachments/assets/9a1fd7d0-9548-498c-a9fb-4adf1b2a0e5f" />
+<img width="1681" height="1011" alt="ScreenShot Tool -20260613071803" src="https://github.com/user-attachments/assets/661a92be-d623-4283-a8fa-4135fefb9bc1" />
 
 
 ---
@@ -242,7 +242,7 @@ This module improves user accessibility by providing a centralized support syste
 - Submit questions or feedback
 - Reach procurement support quickly
 
-<img width="1303" height="754" alt="ScreenShot Tool -20260613065525" src="https://github.com/user-attachments/assets/6893b84a-2b17-4160-94a6-a8615f118f70" />
+<img width="1681" height="1011" alt="ScreenShot Tool -20260613071816" src="https://github.com/user-attachments/assets/860922d8-419a-4265-9289-90d6ffa1c1b7" />
 
 
 ---
@@ -306,7 +306,7 @@ This section helps users complete system setup correctly and minimize technical 
 - Access help resources
 - Follow submission guidelines
 
-<img width="1323" height="755" alt="ScreenShot Tool -20260613065449" src="https://github.com/user-attachments/assets/44e9b6ea-0c89-4d7c-b9db-a9e315021b96" />
+<img width="1681" height="1011" alt="ScreenShot Tool -20260613071828" src="https://github.com/user-attachments/assets/554834ab-20eb-4c8e-b365-dc57773c08ec" />
 
 
 ---
