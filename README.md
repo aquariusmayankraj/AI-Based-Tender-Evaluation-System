@@ -314,3 +314,64 @@ This section helps users complete system setup correctly and minimize technical 
 
 
 ---
+
+# Tech Stack
+
+TenderAI is built using modern technologies to provide a smooth procurement and tender evaluation experience.
+
+- **Frontend:** React.js, Tailwind CSS  
+- **Backend:** Spring Boot, REST APIs  
+- **Database:** MySQL  
+- **AI Layer:** Document Analysis, Eligibility Evaluation  
+
+---
+
+# Project Architecture
+
+The application follows a layered architecture for efficient processing and scalability.
+
+```text
+Frontend (React + Tailwind)
+            ↓
+      REST API Layer
+            ↓
+ Spring Boot Backend
+      ↓           ↓
+AI Engine     MySQL Database
+```
+
+The frontend handles user interactions, the backend processes requests, the AI engine evaluates documents, and MySQL stores application data.
+
+---
+
+# Installation & Setup
+
+### Prerequisites
+- Java 17+
+- Node.js
+- MySQL
+- Maven
+
+### Clone Project
+
+```bash
+git clone <repository-url>
+cd TenderAI
+```
+
+### Run Frontend
+
+```bash
+npm install
+npm run dev
+```
+
+### Run Backend
+
+```bash
+mvn spring-boot:run
+```
+
+Application runs locally after setup.
+
+---
